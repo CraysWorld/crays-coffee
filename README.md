@@ -1,5 +1,7 @@
 # CRAYS Coffee
 
+**Current operating environment — 24 November 2026:** CRAYS development, builds, testing, previews and server operation use AWS. Vercel, Neon and XXL references in older captures describe historical environments. This hosting status does not claim completion of every product flow. [Current AWS and source guidance](https://github.com/CraysWorld/.github/blob/main/docs/aws-operating-status.md).
+
 Original CRAYS Coffee website source, the later document/account framing changes and exact source/version records for the AWS migration.
 
 This repository preserves the two commits of the qualified Next.js source capture, the actual later CSS states missing from their last commit, three previously untracked source/configuration files and the publicly served source scripts/vector assets. It is a project repository for Coffee; its contents are separate from Club, World and the Franchise Investment OS.
